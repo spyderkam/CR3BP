@@ -3,5 +3,8 @@ When trying to find the motion of a comet (mass $m_3$) in the three-body system 
 
 &nbsp;&nbsp;&nbsp;&nbsp; If the comet has position a $\vec{r}$ then the total force exerted on it is,
 \begin{equation}
-  \vec{F} = -\frac{G m_2 m_3} {| \vec{r} - \vec{r}_{1} |}(\vec{r}-\vec{r}_1)
+  \begin{align}
+    \vv{F} = - \frac{Gm_2m_3}{|\vv{r}-\vv{r}\!_2|^3}(\vv{r}-\vv{r}\!_2) - \frac{Gm_1m_3}{|\vv{r}-\vv{r}\!_1|^3}(\vv{r}-\vv{r}\!_1).
+    \label{define_cr3bp}
+\end{align}
 \end{equation}
