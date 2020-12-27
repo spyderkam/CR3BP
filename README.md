@@ -4,5 +4,5 @@ When trying to find the motion of a comet (mass $m_3$) in the three-body system 
 If the comet has position a $\vec{r}$ then the total force exerted on it is, <br>
 
 \begin{eqaution}
-  \vec{F} = \frac{G m_2 m_3}{\left| \vec{r} - \vec{r} \right|}
+  \vec{F} = \frac{G m_2 m_3} {| \vec{r} - \vec{r} |}
 \end{equation}
