@@ -21,8 +21,7 @@ where $\vec{r}_1$ and $\vec{r}_2$ are the positions of $m_1$ and $m_2$ respectiv
     <br>
     
 ## References
-$\hphantom{++}$[1] *Lagrange Point* (2020), Wikipedia, retrieved on 10/01/2020 from [https://en.wikipedia.org/wiki/Lagrange_point](https://en.wikipedia.org/wiki/Lagrange_point). 
-<null>
+$\hphantom{++}$[1] *Lagrange Point* (2020), Wikipedia, retrieved on 10/01/2020 from [https://en.wikipedia.org/wiki/Lagrange_point](https://en.wikipedia.org/wiki/Lagrange_point). <br>
 $\hphantom{++}$[2] Nkosi N. Trim, *Visualizing Solutions of the Circular Restricted Three-Body Problem*, Masters Thesis, Rutgers
 University, 2008.
 
