@@ -11,3 +11,17 @@ When trying to find the motion of a comet (mass $m_3$) in the three-body system 
 where $\vec{r}_1$ and $\vec{r}_2$ are the positions of $m_1$ and $m_2$ respectively. Equation (1) is the basis of the CR3BP; that being said, this problem will be much easier to solve if it is normalized and generalized. I will take an almost purely mathematical approach to this.
 
 ## Normalizing the Problem
+
+
+
+
+<null>
+  <br>
+  <null>
+    <br>
+    
+## References
+$\hphantom{++}$[1] [https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html).
+
+## Notes
+- In my code the number 1 refers to the Earth, and number 2 refers to the Sun. This is exactly the opposite of the README where the index 1 refers to the Sun.
