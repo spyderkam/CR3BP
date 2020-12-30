@@ -30,6 +30,7 @@ so with these new masses I now have a normalized relationship between the two bo
     m_2 + m_1 = 1
 \end{equation}
 
+To accommodate for the stationary configurations---the two primary large masses have fixed positions in a co-rotating frame with the origin at the center of mass [2].
 
 
 
