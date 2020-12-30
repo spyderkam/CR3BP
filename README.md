@@ -22,8 +22,8 @@ Since I am normalizing a problem which includes the concept of *barycenter*, it 
 \end{equation}
 Simplifying things further,
 \begin{align}
-    &m_2 = \mu \\\\\\
-    &m_1 = 1 - \mu
+    &m_2 = \mu \label{m2} \\\\\\
+    &m_1 = 1 - \mu \label{m1}
 \end{align}
 so with these new masses I now have a normalized relationship between the two bodies;
 \begin{equation}
@@ -56,6 +56,12 @@ where $r_1$ and $r_2$ are the distances between the smaller mass $m_3$ and the l
 \begin{align}
     &\ddot{x} -2\Omega\dot{y}-\Omega^2 x = -G\frac{m_2}{r_2^3}(x-1+\mu)- G\frac{m_1}{r_1^3}(x+\mu) \\\\\\
     &\ddot{y} -2\Omega\dot{x}-\Omega^2 y = -G\frac{m_2}{r_2^3}y- G\frac{m_1}{r_1^3}y
+\end{align}
+where I have broken up $\vv{r}$ into its Cartesian coordinates $(x,y)$. To finalize the normalization of \eqref{force} I set $G=\Omega=1$. I also substitute $m_2$ and $m_2$ in the above equations with the expressions in lines \eqref{m1} and \eqref{m2} respectively.
+\begin{align}
+    &\ddot{x} -2\dot{y}- x = -\frac{\mu(x-1+\mu)}{r_2^3}- \frac{(1-\mu)(x+\mu)}{r_1^3} \label{av1}\\\\\\
+        %%%%%%%%%%%%
+    &\ddot{y} -2\dot{x}- y = -\frac{\mu y}{r_2^3}- \frac{(1-\mu)y}{r_1^3} \label{av2}
 \end{align}
 
 <null>
