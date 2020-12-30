@@ -64,6 +64,11 @@ where I have broken up $\vec{r}$ into its Cartesian coordinates $(x,$ $y)$. To f
     &\ddot{y} -2\dot{x}- y = -\frac{\mu y}{r_2^3}- \frac{(1-\mu)y}{r_1^3} \label{av2}
 \end{align}
 
+## Lagrange Points
+
+
+
+
 <null>
   <br>
   <null>
