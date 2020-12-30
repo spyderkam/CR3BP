@@ -16,6 +16,20 @@ To normalize the problem start by redefining the distance between the primary ma
   \left| r_1 - r_2 \right| \equiv 1
 \end{equation}
 
+Since I am normalizing a problem which includes the concept of *barycenter*, it would only make sense to redefine the small primary mass (in this case the Earth) such that $0<m_2<1$.
+\begin{equation}
+    m_2\ \longrightarrow\ \frac{m_2}{m_1+m_2}
+\end{equation}
+Simplifying things further,
+\begin{align}
+    &m_2 = \mu \\\\\\
+    &m_1 = 1 - \mu
+\end{align}
+so with these new masses I now have a normalized relationship between the two bodies;
+\begin{equation}
+    m_2 + m_1 = 1
+\end{equation}
+
 
 
 
