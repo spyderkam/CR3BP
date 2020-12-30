@@ -47,7 +47,7 @@ but since it is a rotating frame, the velocity changes by $\Delta v$ at each rot
 \end{align}
 where the last term in line \eqref{line1} has been ignored because it is small relative to the other two terms.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, in the current defined frame of reference the following are the distances between the smaller mass $m_3$ and the larger masses $m_1$ and $m_2$ respectively.
+&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, in the current defined frame of reference the following are the distances squared between the smaller mass $m_3$ and the larger masses $m_1$ and $m_2$ respectively.
 \begin{align}
     &r_1^2 = (x+\mu)^2+y^2 \\\\\\
     &r_2^2 = (x-1+\mu)^2+y^2
