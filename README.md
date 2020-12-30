@@ -57,7 +57,7 @@ where $r_1$ and $r_2$ are the distances between the smaller mass $m_3$ and the l
     &\ddot{x} -2\Omega\dot{y}-\Omega^2 x = -G\frac{m_2}{r_2^3}(x-1+\mu)- G\frac{m_1}{r_1^3}(x+\mu) \\\\\\
     &\ddot{y} -2\Omega\dot{x}-\Omega^2 y = -G\frac{m_2}{r_2^3}y- G\frac{m_1}{r_1^3}y
 \end{align}
-where I have broken up $\vec{r}$ into its Cartesian coordinates $(x,y)$ $(x,$ $y)$. To finalize the normalization of \eqref{force} I set $G=1=\Omega$. I also substitute $m_2$ and $m_2$ in the above equations with the expressions in lines \eqref{m1} and \eqref{m2} respectively.
+where I have broken up $\vec{r}$ into its Cartesian coordinates $(x,$ $y)$. To finalize the normalization of \eqref{force} I set $G=1=\Omega$. I also substitute $m_2$ and $m_2$ in the above equations with the expressions in lines \eqref{m1} and \eqref{m2} respectively.
 \begin{align}
     &\ddot{x} -2\dot{y}- x = -\frac{\mu(x-1+\mu)}{r_2^3}- \frac{(1-\mu)(x+\mu)}{r_1^3} \label{av1}\\\\\\
         %%%%%%%%%%%%
