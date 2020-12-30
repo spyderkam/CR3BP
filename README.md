@@ -40,7 +40,7 @@ where $r_{12}$ is the distance between the two primary masses. Now that I am wor
 \end{equation}
 but since it is a rotating frame, the velocity changes by $\Delta v$ at each rotation. Therefore,
 \begin{align}
-    a &= \frac{(v+\Delta v)^2}{r} \\
+    a &= \frac{(v+\Delta v)^2}{r} \\\\\\
     &= \frac{\Omega^2 r^2 + 2\Omega r\Delta v + \Delta v^2}{r} \\\\\\
     &= \Omega^2 r + 2\Omega \Delta v + {\frac{\Delta v^2}{r}} \label{line1} \\\\\\
     &\approx \Omega^2 r + 2\Omega \Delta v
