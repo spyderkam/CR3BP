@@ -47,14 +47,7 @@ but since it is a rotating frame, the velocity changes by $\Delta v$ at each rot
 \end{align}
 where the last term in line \eqref{line1} has been ignored because it is small relative to the other two terms.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, from equation \eqref{
-
-
-
-
-
-
-er} it can easily be deducted that,
+&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, from equation \eqref{kepler} it can easily be deducted that,
 \begin{align}
     &r_1^2 = (x+\mu)^2+y^2 \\\\\\
     &r_2^2 = (x-1+\mu)^2+y^2
