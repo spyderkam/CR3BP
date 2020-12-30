@@ -31,7 +31,21 @@ so with these new masses I now have a normalized relationship between the two bo
 \end{equation}
 
 To accommodate for the stationary configurations---the two primary large masses have fixed positions in a co-rotating frame with the origin at the center of mass [2].
-
+\begin{equation}
+    \Omega = \frac{G(m_2 + m_1)}{r^3_{12}}
+\end{equation}
+where $r_{12}$ is the distance between the two primary masses. Now that I am working in a non-inertial frame of reference, we know that for uniform circular motion the acceleration is,
+\begin{equation}
+    a=\frac{v^2}{r}={\Omega^2r}
+\end{equation}
+but since it is a rotating frame, the velocity changes by $\Delta v$ at each rotation. Therefore,
+\begin{align}
+    a &= \frac{(v+\Delta v)^2}{r} \\
+    &= \frac{\Omega^2 r^2 + 2\Omega r\Delta v + \Delta v^2}{r} \\\\\\
+    &= \Omega^2 r + 2\Omega \Delta v + {\frac{\Delta v^2}{r}} \label{line1} \\\\\\
+    &\approx \Omega^2 r + 2\Omega \Delta v
+\end{align}
+where the last term in line \eqref{line1} has been ignored because it is small relative to the other two terms.
 
 
 <null>
