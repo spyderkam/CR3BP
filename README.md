@@ -30,7 +30,7 @@ so with these new masses I now have a normalized relationship between the two bo
     m_2 + m_1 = 1
 \end{equation}
 
-To accommodate for the stationary configurations---the two primary large masses have fixed positions in a co-rotating frame with the origin at the center of mass [2].
+To accommodate for the stationary configurations---the two primary large masses have fixed positions in a co-rotating frame with the origin at the center of mass [2]. To do this first start with Kepler's third law,
 \begin{equation}
     \Omega = \frac{G(m_2 + m_1)}{r^3_{12}} \label{kepler}
 \end{equation}
@@ -47,7 +47,14 @@ but since it is a rotating frame, the velocity changes by $\Delta v$ at each rot
 \end{align}
 where the last term in line \eqref{line1} has been ignored because it is small relative to the other two terms.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, from equation \eqref{kepler} it can easily be deducted that,
+&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, from equation \eqref{
+
+
+
+
+
+
+er} it can easily be deducted that,
 \begin{align}
     &r_1^2 = (x+\mu)^2+y^2 \\\\\\
     &r_2^2 = (x-1+\mu)^2+y^2
