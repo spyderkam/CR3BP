@@ -96,15 +96,15 @@ The first three Lagrange points lie on the same line connecting $m_1$ and $m_2$,
 \end{equation*}
 note that from \eqref{mu} $\mu$ is found to be $\dfrac{R_{\oplus}}{R_{\oplus}+R_{\odot}}\approx3.003\times10^{-6}$.
 
-The stable Lagrange points $L_4$ and $L_5$ can be obtained by remembering that they are the third vertices of equilateral triangles, the other two being the $m_1$ and $m_2$. The points are,
+&nbsp;&nbsp;&nbsp;&nbsp; The stable Lagrange points $L_4$ and $L_5$ can be obtained by remembering that they are the third vertices of equilateral triangles, the other two being the $m_1$ and $m_2$. The points are,
 \begin{equation*}
     \begin{cases}
         L_4 = (0.5-\mu,\ \dfrac{\sqrt{3}}{2}) \\\\\
-        L_5 = (0.5-\mu,\ -\dfrac{\sqrt{3}}{2}).
+        L_5 = (0.5-\mu,\ -\dfrac{\sqrt{3}}{2})
     \end{cases}
 \end{equation*}
 
-# RK4 Method
+## RK4 Method
 
 <null>
   <br>
