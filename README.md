@@ -121,5 +121,8 @@ $\hphantom{++}$[1] *Lagrange Point* (2020), Wikipedia, retrieved on 10/01/2020 f
 $\hphantom{++}$[2] Nkosi N. Trim, *Visualizing Solutions of the Circular Restricted Three-Body Problem*, Rutgers
 University, 2008.
 
-## Notes
+<null>
+ <br>
+
+## Warnings
 - In my code the number 1 refers to the Earth, and number 2 refers to the Sun. This is exactly the opposite of the README where the index 1 refers to the Sun.
