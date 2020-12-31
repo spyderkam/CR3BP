@@ -5,6 +5,12 @@
  
 The execution can probably also be done in Windows. I believe that you have to manually run the GFortran files in the order which appears in the `makefile`.
 
+
+<null>
+  <br>
+  <null>
+    <br>
+
 # Circular Restricted Three-Body Problem
 
 *Please enable [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) or similiar to view $\LaTeX$.*
@@ -79,8 +85,6 @@ where I have broken up $\vec{r}$ into its Cartesian coordinates $(x,$ $y)$. To f
 
 <null>
   <br>
-  <null>
-    <br>
     
 ## References
 $\hphantom{++}$[1] *Lagrange Point* (2020), Wikipedia, retrieved on 10/01/2020 from [https://en.wikipedia.org/wiki/Lagrange_point](https://en.wikipedia.org/wiki/Lagrange_point). <br>
