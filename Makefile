@@ -1,4 +1,3 @@
-
 OBJS1 = numtype.o planetary.o rk4step.o
 
 PROG1 = 3plan
