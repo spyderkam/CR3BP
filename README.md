@@ -106,8 +106,15 @@ note that from \eqref{mu} $\mu$ is found to be $\dfrac{R_{\oplus}}{R_{\oplus}+R_
 
 ## RK4 Method
 
-<null>
-  <br>
+To use the results found above in order to find the two-dimensional motion of the comet $m_3$, I will utilize the Runge--Kutta method. The equations of motion for the RK4 are,
+\begin{align}
+    &v_x = \dot{x} \\\\\
+    &v_y = \dot{y} \\\\\
+    %%%%%%%%%%%%%%%%%%%
+    &\dot{v}_x = -\frac{\mu(x-1+\mu)}{r_2^3}- \frac{(1-\mu)(x+\mu)}{r_1^3} + 2{v}_y + x \\\\\
+    %%%%%%%%%%
+    &\dot{v}_y = -\frac{\mu y}{r_2^3}- \frac{(1-\mu)y}{r_1^3} + 2v_x+y.
+\end{align}
     
 ## References
 $\hphantom{++}$[1] *Lagrange Point* (2020), Wikipedia, retrieved on 10/01/2020 from [https://en.wikipedia.org/wiki/Lagrange_point](https://en.wikipedia.org/wiki/Lagrange_point). <br>
