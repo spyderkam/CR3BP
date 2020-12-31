@@ -1,9 +1,9 @@
 ## Execution
  1. Open Unix/Linux terminal and `cd` to decired driectory.
- 2. Run the $\textttt{makefile}$ by typying `make`.
- 3. Execute the created $\textttt{3plan}$ file by running `./3plan` in the terminal.
+ 2. Run the $\texttt{makefile}$ by typying `make`.
+ 3. Execute the created $\texttt{3plan}$ file by running `./3plan` in the terminal.
  
-The execution can probably also be done in Windows. I believe that you have to manually run the GFortran files in the order which appears in the $\textttt{makefile}$.
+The execution can probably also be done in Windows. I believe that you have to manually run the GFortran files in the order which appears in the $\texttt{makefile}$.
 
 # Circular Restricted Three-Body Problem
 
