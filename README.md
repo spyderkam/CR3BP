@@ -4,7 +4,7 @@
  3. Run the `makefile` by typying `make`.
  4. Execute the created `3plan` file by running `./3plan` in the terminal.
  
-The execution can probably also be done in Windows. I believe that you have to manually run the GFortran files in the order which appears in the `makefile` line 1.
+The execution can also be done in Windows. The procedure will however be different to the above steps.
 
 ## Warnings
 - Please see the wiki home page for $\LaTeX$ write up of the problem.
