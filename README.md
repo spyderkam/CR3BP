@@ -79,7 +79,7 @@ where I have broken up $\vec{r}$ into its Cartesian coordinates $(x,$ $y)$. To f
 \end{align}
 
 ## Lagrange Points
-Since I am trying to solve for the stationary configurations, the velocity and acceleration are assumed to be zero.\footnote{The velocity of $m_3$ is not necessarily zero.} This simplifies equations \eqref{av1} and \eqref{av2} to the following,
+Since I am trying to solve for the stationary configurations, the velocity and acceleration are assumed to be zero. This simplifies equations \eqref{av1} and \eqref{av2} to the following,
 \begin{align}
     &x = \frac{\mu(x-1+\mu)}{r_2^3}+ \frac{(1-\mu)(x+\mu)}{r_1^3} \label{l123}\\\\\\
         %%%%%%%%%%%%
@@ -106,7 +106,7 @@ note that from \eqref{mu} $\mu$ is found to be $\dfrac{R_{\oplus}}{R_{\oplus}+R_
 
 ## RK4 Method
 
-To use the results found above in order to find the two-dimensional motion of the comet $m_3$, I will utilize the Runge--Kutta method (RK4). The equations of motion for the RK4 are,
+To use the results found above in order to find the two-dimensional motion of the comet $m_3$, I will utilize the Runge&ndash;Kutta method (RK4). The equations of motion for the RK4 are,
 \begin{align}
     &v_x = \dot{x} \\\\\
     &v_y = \dot{y} \\\\\
