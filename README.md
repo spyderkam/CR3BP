@@ -89,9 +89,9 @@ Since I am trying to solve for the stationary configurations, the velocity and a
 The first three Lagrange points lie on the same line connecting $m_1$ and $m_2$, so their $y$ components are zero. Their $x$ components are found by solving equation \eqref{l123} using a computer algebra system. These points are:
 \begin{equation*}
     \begin{cases}
-        L_1 = (+0.9900271,\ 0) \\\\\\
-        L_2 = (+1.0100336,\ 0) \\\\\\
-        L_3 = (-1.0000013,\ 0)
+        L_1 = (+0.9900271,\ 0) \\\\\
+       L_2 = (+1.0100336,\ 0) \\\\\\
+       L_3 = (-1.0000013,\ 0)
     \end{cases}
 \end{equation*}
 note that from \eqref{mu} $\mu$ is found to be $\dfrac{R_{\oplus}}{R_{\oplus}+R_{\odot}}\approx3.003\times10^{-6}$.
