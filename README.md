@@ -83,7 +83,7 @@ Since I am trying to solve for the stationary configurations, the velocity and a
 \begin{align}
     &x = \frac{\mu(x-1+\mu)}{r_2^3}+ \frac{(1-\mu)(x+\mu)}{r_1^3} \label{l123}\\\\\\
         %%%%%%%%%%%%
-    &y = \frac{\mu y}{r_2^3}+ \frac{(1-\mu)y}{r_1^3}.
+    &y = \frac{\mu y}{r_2^3}+ \frac{(1-\mu)y}{r_1^3}
 \end{align}
 
 The first three Lagrange points lie on the same line connecting $m_1$ and $m_2$, so their $y$ components are zero. Their $x$ components are found by solving equation \eqref{l123} using a computer algebra system. These points are:
@@ -91,7 +91,7 @@ The first three Lagrange points lie on the same line connecting $m_1$ and $m_2$,
     \begin{cases}
         L_1 = (+0.9900271,\ 0) \\\\\\
         L_2 = (+1.0100336,\ 0) \\\\\\
-        L_3 = (-1.0000013,\ 0),
+        L_3 = (-1.0000013,\ 0)
     \end{cases}
 \end{equation*}
 note that from \eqref{mu} $\mu$ is found to be $\dfrac{R_{\oplus}}{R_{\oplus}+R_{\odot}}\approx3.003\times10^{-6}$.
