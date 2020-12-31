@@ -86,7 +86,7 @@ Since I am trying to solve for the stationary configurations, the velocity and a
     &y = \frac{\mu y}{r_2^3}+ \frac{(1-\mu)y}{r_1^3}.
 \end{align}
 
-The first three Lagrange points lie on the same line connecting $m_1$ and $m_2$, so their $y$ components are zero. Their $x$ components are found by solving equation \eqref{l123} using a CAS. These points are:
+The first three Lagrange points lie on the same line connecting $m_1$ and $m_2$, so their $y$ components are zero. Their $x$ components are found by solving equation \eqref{l123} using a computer algebra system. These points are:
 \begin{equation*}
     \begin{cases}
         L_1 = (+0.9900271,\ 0) \\\\\\
