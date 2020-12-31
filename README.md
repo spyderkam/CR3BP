@@ -90,7 +90,7 @@ The first three Lagrange points lie on the same line connecting $m_1$ and $m_2$,
 \begin{equation*}
     \begin{cases}
         L_1 = (+0.9900271,\ 0) \\\\\
-       L_2 = (+1.0100336,\ 0) \\\\\\
+       L_2 = (+1.0100336,\ 0) \\\\\
        L_3 = (-1.0000013,\ 0)
     \end{cases}
 \end{equation*}
