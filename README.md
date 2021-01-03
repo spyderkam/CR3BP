@@ -1,5 +1,5 @@
 ## Execution
- 1. Modify `planetary.f95` lines A-Z to reflect whatever initial conditions you want.
+ 1. Modify `planetary.f95` lines 22 and 23 to reflect whatever Lagrange point and initial conditions you want respectively.
  2. Open Unix/Linux terminal and `cd` to the driectory which includes the files.
  3. Run the `makefile` by typying `make`.
  4. Execute the created `3plan` file by running `./3plan` in the terminal.
