@@ -9,4 +9,4 @@ The execution can also be done in Windows. The procedure will however be differe
 ## Notes
 - Please see the [wiki home page](https://github.com/spyderkam/CR3BP/wiki) for $\LaTeX$ write up of the problem.
 - See the [wiki plots page](https://github.com/spyderkam/CR3BP/wiki/Plots) for a few plots with different initial conditions.
-- IMPORTANT: In my code the number 1 refers to the Earth, and number 2 refers to the Sun. This is exactly the opposite of the Wiki page where the index 1 refers to the Sun.
+- IMPORTANT: In my code the number 1 refers to the Earth, and number 2 refers to the Sun. This is exactly the opposite of the [Wiki page](https://github.com/spyderkam/CR3BP/wiki) where the index 1 refers to the Sun.
