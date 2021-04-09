@@ -4,7 +4,7 @@
  3. Run the `makefile` by typying `make`.
  4. Execute the created `3plan` file by running `./3plan` in the terminal.
  
-The execution can also be done in Windows. The procedure will however be different to the above steps.
+The execution can also be done in Windows. The procedure will however probably be different to the above steps.
 
 ## Notes
 - Please see the [wiki home page](https://github.com/spyderkam/CR3BP/wiki) for $\LaTeX$ write up of the problem.
